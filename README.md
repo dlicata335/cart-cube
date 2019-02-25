@@ -18,6 +18,8 @@ by Matthew Z. Weaver and Daniel R. Licata
                     (compile All.agda to check everything)
 ```
 
+# Installing agda-flat
+
 Both Agda formalizations use an experimental branch of Agda called
 agda-flat (version 2.6.0.1), which can be installed by
 ```
