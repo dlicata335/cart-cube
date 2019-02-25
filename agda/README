@@ -1,0 +1,14 @@
+this directory: basic definitions of types, definitions of Kan operation, etc.
+
+universe: definition of UKan,
+          proofs that types are Kan (using universes throughout),
+          codes for UKan
+
+directed: bicubical directed type theory
+
+com-glue-decomposed: decomposed algorithm for composition in Glue types
+                     from first ABCFHL draft
+
+com-glue-dagstuhl: August, 2018 "Dagstuhl lemma" -- alternative definition
+                   of equivalence for which which showing coe is an
+                   equivalence is simpler
