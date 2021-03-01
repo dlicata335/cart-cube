@@ -12,8 +12,8 @@ Kuen-Bang Hou (Favonia), Robert Harper, Daniel R. Licata
 ```
 
 The formalization that corresponds exactly to the paper is
-browsable[http://dlicata.wescreates.wesleyan.edu/pubs/abcfhl/agda/ABCFHL-MSCS.html] and
-downloadable[https://dlicata.wescreates.wesleyan.edu/pubs/abcfhl/abcfhl.tar.gz].
+[browsable](http://dlicata.wescreates.wesleyan.edu/pubs/abcfhl/agda/ABCFHL-MSCS.html) and
+[downloadable](https://dlicata.wescreates.wesleyan.edu/pubs/abcfhl/abcfhl.tar.gz).
   
 The code in this repository includes that, as well as some other, related material:
 ```
